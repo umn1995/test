@@ -1,0 +1,23 @@
+
+
+1. logical programs
+2. collections
+3. class name, method name, variable name, package name
+4. Comments
+5. Segregate to smaller methods
+6. tomcat server
+7. servlet, jsp
+8. rest api
+9. jdbc
+10. oracle connectivity
+11. Junit, mockito
+12. utility classes
+13. private/public methods
+14. Abstration layer & inheritance
+15. hibernate
+16. little bit UI/UX
+17. high level spring
+18. oracle
+19. HTML , css , javascript
+20. git
+21. Maven
